@@ -1,6 +1,10 @@
 #  Hello There!
 💫 About Me:<br>I'm Mayank Mehta, a passionate and driven student currently pursuing my Bachelor's in Computer Engineering from Fr. Conceicao Rodrigues College of Engineering. My journey in tech has been both thrilling and challenging, as I delve deep into the world of programming and development.<br><br>I’m proficient in Python and Django, and I’m currently expanding my horizons by learning Machine Learning, Kotlin, and Java. My curiosity keeps me exploring new technologies and innovative solutions.<br><br>When I’m not coding, you can find me solving puzzles, a hobby that fuels my love for problem-solving and critical thinking. I’m excited to collaborate on projects that challenge the norm and push the boundaries of what’s possible.<br><br>Let's build something amazing together!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/code-runner1306/code-runner1306/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/code-runner1306/code-runner1306/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+</picture>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mayankkk_mehta/profilecard/?igsh=dmlxMjR2cTZpdHQy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mayank-mehta-4b94312a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
